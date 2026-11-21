@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Gemini 2 Markdown
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/
 // @version      1.0
 // @description  Copies Gemini conversations, including images, as Markdown. English and Español interface.
 // @author       EdwarlyGamer999+
