@@ -1,2 +1,2 @@
 # EdwarlyGamer999Plus-UserScripts
-A compilation of scripts I have been developing  :)
+A compilation of user scripts I have been developing  :)
