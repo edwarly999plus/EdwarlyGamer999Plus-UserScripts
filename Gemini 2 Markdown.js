@@ -8,7 +8,7 @@
 // @grant        GM_setClipboard
 // @grant        GM_addStyle
 // @icon         https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original
-// @license MIT
+// @license MIT 
 // ==/UserScript==
 
 (function () {
